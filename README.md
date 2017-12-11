@@ -33,3 +33,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MasterKinnnnnng/Kinnnnnng-s-barn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>关于摄影的诗一首</title>
+</head>法师赋
+
+<body>
+<p>夏去秋来马甲带  </p>
+<p>飞鸟和花小姑娘  </p>
+<p>长焦微距比谁大 </p>
+<p>一年都在瞎啪啪</p>
+</body>
+</html>
